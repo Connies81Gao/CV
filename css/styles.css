@@ -30,7 +30,7 @@ h3{
 }
 p{
   font-family: 'Roboto', sans-serif;
-  font-size: 90%;
+  
   color: #40514e;
   margin:0px 0px;
   line-height: 1.4rem;
@@ -59,21 +59,8 @@ table{
 .trans{
   opacity: 0.2;
 }
-.coding{
-  width: 25%;
-  height:25%;
-  float:left;
-  margin-right: 30px;
-  border-radius: 50%;
 
-}
-.math{
-  width: 25%;
-  height:20%;
-  float:right;
-  margin-left: 30px;
-  border-radius: 50%;
-}
+
 .top-container{
   /*background-color: #e4f9f5;*/
   background-color: #eaf6f6;
@@ -115,7 +102,7 @@ a{
 .summary-div{
   border:6px solid #db6400;
   border-style: none solid;
-  width:60%;
+  width:80%;
   margin:auto;
   font-size: 1rem;
   line-height: 1.5;
@@ -137,14 +124,14 @@ a{
   line-height: 2;
 }
 .skills{
-  width:60%;
+  width:80%;
   position:relative;
   left:25%;
   margin-bottom:100px;
 
 }
 .contact-me{
-  width: 70%;
+  width: 80%;
   text-align: center;
   margin:auto;
 }
